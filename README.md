@@ -1,4 +1,4 @@
-# COVID-19 Testing Visualizations
+# COVID-19 Testing Visualizations in the United States
 
 One of the biggest aspects of misinformation around the coronavirus outbreak is that much fear is inspired by the rising number of positive test results each day, despite the fact that much of this can be attributed to increases in the testing capacity of various states as time as gone on. More importantly, some states have been testing much more aggressively than others (for example, New York has been testing beyond what the federal government has given them, according to Andrew Cuomo).
 
