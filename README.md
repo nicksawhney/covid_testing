@@ -5,4 +5,4 @@ One of the biggest aspects of misinformation around the coronavirus outbreak is 
 In an effort to help clarify the severity of the coronavirus outbreak in various states and provide an accessible way of understanding testing overall, I have created an interactive map allowing the user to explore statistics about specifically testing in each state. Each time the code is run, latest data is pulled from the [Covid Tracking Project](https://covidtracking.com/data/).
 I will try to keep the map updated each day until I have the time to set up an automated system which pulls data as it newly becomes available. 
 
-![Coronavirus Testing vs Positives, March 20th 2020](https://github.com/nicksawhney/covid_testing/blob/master/us_positive_tests.png)
+![Coronavirus Testing vs Positives, March 21st 2020](https://github.com/nicksawhney/covid_testing/blob/master/figs/us_positive_tests.png)
